@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Balaji0101
-- 👀 I’m interested in Blockchain.
-- 🌱 I’m currently learning Solidity.
+- 👋 Hi, I’m @Balaji D
+- 👀 I’m A Data Scientist.
+- 🌱 I’m currently learning Datascience.
 - 💞️ I’m looking to collaborate on anyone who helps me to enhance my skills and knowledge...
 - 📫 How to reach me email2balaji.d@gmail.com...
 
